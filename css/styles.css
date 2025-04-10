@@ -4020,8 +4020,8 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .modal-popup {
     
-    max-width        :689px;
-    max-height       :calc(100vh - 125px);
+    max-width        : 689px;
+    max-height       : calc(100vh - 125px);
     background-color : white;
     font-size        : calc(var(--text-size) * 0.9447);
     line-height      : var(--vspace-0_875);
